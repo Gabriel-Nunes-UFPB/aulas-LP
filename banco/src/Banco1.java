@@ -5,7 +5,7 @@ public class Banco1 {
         ContaSimples umaConta = new ContaSimples ("João", "309140605-06");
         umaConta.depositar(1000.00);
 
-        System.out.println("Saldo inicial da conta" + umaConta.getNúmero() + " antes do saque é R$" + umaConta.getSaldo());
+        System.out.println("Saldo inicial da conta " + umaConta.getNúmero() + " antes do saque é R$" + umaConta.getSaldo());
 
         umaConta.sacar(300.00);
         System.out.println(umaConta);

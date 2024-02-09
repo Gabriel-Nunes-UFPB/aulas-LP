@@ -2,6 +2,7 @@
   <library name="banco">
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/banco.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntelliJ/banco.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
