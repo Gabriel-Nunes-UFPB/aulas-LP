@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlocoDeNotas/BlocoDeNotas.iml" filepath="$PROJECT_DIR$/BlocoDeNotas/BlocoDeNotas.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaixaChatBot/CaixaChatBot.iml" filepath="$PROJECT_DIR$/CaixaChatBot/CaixaChatBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioTreinoProva/ExercicioTreinoProva.iml" filepath="$PROJECT_DIR$/ExercicioTreinoProva/ExercicioTreinoProva.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/aulas-LP.iml" filepath="$PROJECT_DIR$/.idea/aulas-LP.iml" />
